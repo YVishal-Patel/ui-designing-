@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: vishalBold;
+  src: url(./Assets/Gilroy-Bold.ttf);
+}
+@font-face {
+  font-family: vishal;
+  src: url(./Assets/Gilroy-Bold.ttf);
+}
+@font-face {
+  font-family: vishalBolder;
+  src: url(./Assets/Gilroy-ExtraBold.ttf);
+}
+@font-face {
+  font-family: vishalHeavy;
+  src: url(./Assets/Gilroy-Heavy.ttf);
+}
+@font-face {
+  font-family: vishalRegular;
+  src: url(./Assets/Gilroy-Regular.ttf);
+}
+@font-face {
+  font-family: Semibold;
+  src: url(./Assets/Gilroy-SemiBold.ttf);
+}
+@font-face {
+  font-family: vishalMedium;
+  src: url(./Assets/Gilroy-Medium.ttf);
+}
