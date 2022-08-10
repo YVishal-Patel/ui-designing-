@@ -1,0 +1,121 @@
+.vidComponent-main{
+    width: 100%;
+    margin: 5rem 0;
+}
+.vid-img-con{
+    height: 70vh;
+}
+.vid-component-img-main{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.vid-component-heading{
+    font-size: 32px;
+    letter-spacing: 0.7px;
+    word-spacing: 0.7px;
+    font-family: vishalRegular;
+    color: #000;
+
+}
+.vid-component-col-data{
+    margin-top:3rem;
+    flex: 0 0 35.3%;
+     max-width: 80%;
+    position: relative;
+    width: 100%;
+    margin-left: 1rem;
+}
+.vid-component-dis{
+margin: 0.3rem 0;
+font-size: 14px;
+color: #000;
+word-spacing: 1.6px;
+letter-spacing: 0.3px;
+font-family: vishalMedium;
+line-height: 20px;
+}
+.vid-courses{
+    margin: 3rem 0;
+}
+.vid-courses, .vid-students{
+    font-size: 2.6rem;
+    font-family: vishalRegular;
+}
+.vid-course{
+    font-size: 1.3rem;
+    color: rgb(96, 94, 94);
+    font-family: vishalRegular;
+}
+.img-vid-datas{
+    width: 100%;
+    height: 70vh;
+    margin: 6rem 0;
+    position: relative;
+}
+.img-second-img-data{
+    width: 100%;
+    height: 70vh;
+    object-fit: cover;
+}
+.img-vid-data-main{
+     width: 34%;
+    position: absolute;
+    top: 27%;
+}
+.img-vid-data-main-heading{
+    font-size: 1.7rem;
+    color: #ffff;
+    text-transform: capitalize;
+    font-family: vishalRegular;
+}
+.img-vid-data-main-data{
+    font-size: 19px;
+    color: #ffff;
+    font-family:Semibold ;   
+}
+.img-vid-data-main-data-btn{
+    margin-top: 1rem;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+    padding: 0.7rem 1.7rem;
+    font-size: 11px;
+    transition: 0.2s linear;
+}
+.img-vid-data-main-data-btn:hover{
+    border: 1px solid #fff;
+    background-color: transparent;
+    color: #fff;
+}
+.cart-main{
+    margin:1rem 2.7rem;
+    /* width: ; */
+    height: 100px;
+}
+.cart-car-data{
+    margin:6.5rem 2.7rem;
+}
+.cart-main-1{
+    margin: 0 0.4rem;
+    width: 250px;
+    object-fit: cover;
+}
+.cart-main-data-name{
+    margin: 0 2.9rem;
+    font-size: 1.8rem;
+    font-family: vishalRegular;
+}
+
+.img-card-data-cont-data{
+    width: 100%;
+    height: 90vh;
+}
+.img-card-data-cont{
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+}
+.img-card-data-cont-data-im{
+    margin: 6rem 0;
+}

@@ -1,0 +1,59 @@
+.faq-cont{
+    margin: 7rem 0;
+}
+.faq-instructor-heading-head{
+    font-size: 50px;
+    font-family: vishalBold;
+    letter-spacing: 1px;
+    color: #000;
+}
+.faq-instructor{
+    margin: 0 3rem;
+}
+.faq-instructor-heading-data{
+    color: #000;
+    font-size: 14px;
+    font-weight: vishalRegular;
+}
+
+.footer-instructor{
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+    padding: 0.6rem 1.4rem;
+    font-size: 11px;
+    margin-top: 0.7rem;
+    transition: 0.2s linear;
+}
+.footer-instructor:hover{
+background-color: #fff;
+color: #000;
+padding: 0.6rem 1.4rem;
+border: 1px solid black;
+}
+.faq-question-heading-head{
+    margin: 0 3rem;
+}
+.faq-question-heading-head-heading{
+    font-size: 31px;
+    letter-spacing: 0.6px;
+    font-family: vishalBold;
+    color: #000;
+    margin: 1rem 0;
+}
+.faq-questions{
+    margin-top: 1.7rem;
+}
+.faq-questions-lefts{
+    margin: 0 2.8rem;
+    margin-bottom: 2.2rem;
+    width: 550px;
+}
+.fa-questions{
+    font-size: 18px;
+    font-family: vishalBold;
+}
+.fa-ans{
+    font-family: vishalMedium;
+    font-size: 14px;
+}

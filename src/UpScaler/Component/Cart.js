@@ -1,0 +1,34 @@
+import React from 'react'
+import '../Component/VidComponent/index.css'
+import img1 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca7.jpg'
+import img2 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca2.jpg'
+import img3 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca8.jpg'
+import img4 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca4.jpg'
+import img5 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca9.jpg'
+import img6 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca6.jpg'
+import { HeaderUpScaler } from '../../Data'
+
+
+function Cart() {
+  return (
+    <>
+    <div className="container">
+      {HeaderUpScaler.map((item)=>{
+        return  <div className="cart-car-data" key={item.id}>
+          <span className='cart-main-data-name'>{item.name}</span>
+      <div className="cart-main d-flex justify-content-between">
+        <img className="cart-main-1" src={img1} alt="not found" />
+        <img className="cart-main-1" src={img2} alt="not found" />
+        <img className="cart-main-1" src={img3} alt="not found" />
+        <img className="cart-main-1" src={img4} alt="not found" />
+        <img className="cart-main-1" src={img5} alt="not found" />
+        <img className="cart-main-1" src={img6} alt="not found" />
+      </div>
+      </div>
+      })}
+    </div>
+    </>
+  )
+}
+
+export default Cart

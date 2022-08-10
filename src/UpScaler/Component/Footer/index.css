@@ -1,0 +1,40 @@
+.main-footer-un-cont{
+    margin-top: 7rem;
+}
+.footer-cont-heading{
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
+    font-family: vishalBold;
+    margin-bottom: 1.4rem;
+}
+
+.footer-cont-headings{
+    font-family: Semibold;
+    margin-bottom: 1.4rem;
+}
+.footer-cont-heading-desp{
+    font-family: vishalRegular;
+    font-size: 14px;
+    color: #585555;
+    margin: 0.7rem 0;
+    cursor: pointer;
+}
+.footer-lang{
+    /* margin-top: -0.2rem; */
+    font-size: 11px;
+}
+.footer-cont-lang-last{
+    border: 1px solid black;
+    width: 90px;
+    position: absolute;
+    height: 40px;
+    right: 12rem;
+    cursor: pointer;
+}
+.footer-lang, .up-language-foot{
+    margin-top: 0.8rem;
+}
+.up-language-foot{
+    margin-left: 0.8rem;
+}

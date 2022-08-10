@@ -1,0 +1,38 @@
+.up-scaler-img{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-top: -0.2rem ;
+    margin-left: 0.5rem;
+}
+.up-scaler-header{
+    margin: 0 -6rem;
+}
+.up-logo{
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
+}
+.up-scaler-middle{
+    margin: 0 5rem;
+}
+.up-categories, .up-scaler-class, .up-english{
+    font-size: 12px;
+    color: #000;
+    cursor: pointer;
+}
+.up-scaler-class{
+    margin: 0 1rem;;
+}
+.up-language {
+    margin: -0.1rem  0.5rem;
+}
+.up-search {
+    margin: 0 1rem;
+    cursor: pointer;
+}
+.up-cart{
+    margin: 0 1rem;
+}
