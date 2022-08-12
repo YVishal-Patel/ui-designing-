@@ -1,6 +1,6 @@
 import React from 'react'
 import './index.css'
-import img1 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca1.jpg'
+import img1 from 'UpScaler/scalerAsset/sca1.jpg'
 
 function Header() {
   return (
