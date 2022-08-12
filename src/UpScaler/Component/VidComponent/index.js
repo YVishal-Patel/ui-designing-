@@ -1,7 +1,7 @@
 import React from 'react'
 import './index.css'
-import img1 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/first.jpg'
-import img2 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/big6.jpg'
+import img1 from 'UpScaler/scalerAsset/first.jpg'
+import img2 from 'UpScaler/scalerAsset/big6.jpg'
 
 function VidComponent() {
   return (

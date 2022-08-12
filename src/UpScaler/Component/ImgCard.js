@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/big.jpg'
+import img1 from 'UpScaler/scalerAsset/big.jpg'
 import '../Component/VidComponent/index.css'
 
 function ImgCard() {

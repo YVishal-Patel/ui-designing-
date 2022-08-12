@@ -1,11 +1,11 @@
 import React from 'react'
 import '../Component/VidComponent/index.css'
-import img1 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca7.jpg'
-import img2 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca2.jpg'
-import img3 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca8.jpg'
-import img4 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca4.jpg'
-import img5 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca9.jpg'
-import img6 from '/home/vishal/Desktop/designing_page/src/UpScaler/scalerAsset/sca6.jpg'
+import img1 from 'UpScaler/scalerAsset/sca7.jpg'
+import img2 from 'UpScaler/scalerAsset/sca2.jpg'
+import img3 from 'UpScaler/scalerAsset/sca8.jpg'
+import img4 from 'UpScaler/scalerAsset/sca4.jpg'
+import img5 from 'UpScaler/scalerAsset/sca9.jpg'
+import img6 from 'UpScaler/scalerAsset/sca6.jpg'
 import { HeaderUpScaler1 } from '../../Data'
 
 
