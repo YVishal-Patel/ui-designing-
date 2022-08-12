@@ -18,7 +18,7 @@ function App() {
   // console.log(HeaderUpScaler)
   return (
     <>
-      <Header />
+      {/* <Header />
     <Home />
     <SingleCart />
     <ImgCard /> 
@@ -26,9 +26,9 @@ function App() {
     <VidComponent /> 
     <Faq />
     <Footer /> 
+     */}
     
-    
-    
+     <Assemble />
     </>
   )
 }
